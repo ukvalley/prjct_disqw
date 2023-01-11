@@ -1,0 +1,18 @@
+.scan_btn{
+    font-size: 186%;
+}
+.containerc setCamera{
+    position: relative;
+	border: 2px solid blue;	
+}
+.setselect{
+    position: absolute;   
+	
+	border-radius: 16px;
+	align-items: center;
+	
+	width: 180px;
+}
+.btn_camera{
+    margin-left: 5%;
+}

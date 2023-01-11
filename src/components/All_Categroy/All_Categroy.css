@@ -1,0 +1,23 @@
+.vendor-meta-item1 {
+    padding: 10px 0px 10px 0px;
+    -webkit-box-flex: 2;
+    -ms-flex: 2;
+    flex: 2 2;
+    line-height: 1.6;
+  }
+ .btn_color{
+ 
+background-color: #254f72;
+ }
+
+ .pdl-5 {
+  padding-left: 5px;;
+ }
+
+ .ml-1 {
+  margin: 1.2px;
+ }
+ .flex-btn{
+  display: flex;
+  overflow-x: auto;
+ }

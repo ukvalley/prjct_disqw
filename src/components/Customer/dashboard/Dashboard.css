@@ -1,0 +1,82 @@
+.Dashboard {
+    width: calc(100% - 1px);
+    height: max-content;
+    overflow-y: scroll;
+    overflow-y: scroll !important;
+    -webkit-overflow-scrolling: touch;
+}
+
+
+/*  css of cards on dashboard*/
+
+.dash_table {
+    background-color: #fff;
+    border: 1px solid #fff;
+    box-shadow: 2px 2px 2px 2px #c9c9c9;
+}
+
+.card_1 {
+    background: linear-gradient(45deg, #0288d1, #26c6da) !important;
+    color: #fff;
+}
+
+.card_2 {
+    background: linear-gradient(45deg, #ff5252, #f48fb1) !important;
+    color: #fff;
+}
+
+.card_3 {
+    background: linear-gradient(45deg, #ff6f00, #ffca28) !important;
+    color: #fff;
+}
+
+.card_4 {
+    background: linear-gradient(45deg, #43a047, #1de9b6) !important;
+}
+
+.table-borderless td,
+.table-borderless th {
+    border: 0;
+}
+
+.project_img {
+    width: 50px;
+    height: 50px;
+}
+
+a {
+    text-decoration: none !important;
+    color: #000;
+}
+
+.wallet_block {
+    box-shadow: 0px 2px 7px 1px #a1a1a1;
+}
+.bell_color{
+    color: #0b417c;
+    font-size: 30px;
+    line-height: 50px; 
+    margin-left: 3px;
+}
+.button_place{
+    display: flex;
+    justifyContent: right;
+}
+.bnk_v{
+    font-size: 185%;
+    margin-top: 5px;
+    color: #2490a9;
+}
+.bnk_v1{
+    font-size: 185%;
+    margin-top: 5px;
+    color: #cbbff3
+}
+.set_l{
+    padding-left: 10px;
+}
+.set_ll{
+    padding: 5px;
+    margin-left: 5%;
+    margin-bottom: auto;
+}

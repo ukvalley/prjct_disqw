@@ -1,0 +1,10 @@
+.font_s_size_1 {
+    font-size: 3rem;
+    margin-bottom: 3%;
+}
+.blog_img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px 15px 0px 0px;
+}

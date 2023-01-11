@@ -1,0 +1,32 @@
+.block {
+    overflow: hidden;
+    background: #ffff;
+    padding: 0%;
+    margin: 0 0 1rem 0;
+    }
+    .block img {
+     width: 105px;
+    height: 105px;
+    float: left;
+    margin: 0 1rem 0 0;
+    padding: 1%;
+    }
+
+    .block h2 {
+      margin: 0 0 0.5rem 0;
+    }
+
+    .h6_s {
+        opacity: 0.5;
+        letter-spacing: 0.1px;
+    }
+    
+    .h2 {
+        letter-spacing: 1px;
+        margin: 10px 0;
+    }
+    .icon_color{
+        color:#ffd400;
+        font-size: large;
+    }
+    

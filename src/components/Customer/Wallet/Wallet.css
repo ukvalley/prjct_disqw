@@ -1,0 +1,18 @@
+.icon_size{
+    width: 50px;
+    box-shadow: 0px 0px 1px #82d0e9;
+    border-radius: 8px 8px 8px 8px;
+   }
+.card {
+   padding: 0px 0px;
+   border: none !important;
+   
+   box-shadow: 0 6px 12px 0 rgb(0 0 0 / 20%);
+ }
+
+ .card_p{
+   margin-left: 26%;
+ }
+ .btn_set{
+  margin-left: 6px;
+ }

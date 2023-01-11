@@ -1,0 +1,33 @@
+
+.pic {
+    height: 50px;
+    width: 50px;
+    margin-left: 5%;
+    border-radius: 50%;
+    transition: all .2s ease-in-out;
+}
+.text_set_{
+    margin-left: 10%;
+}
+.set_amount{
+    text-align: left;
+}
+.abc_c{
+    width: -webkit-fill-available;
+}
+
+.img-tr{
+    width: 20%;
+}
+
+.content-tr{
+    width: 60%;
+}
+
+.amt-tr{
+    width: 20%;
+}
+
+.mb3px{
+    margin-bottom: 3px;
+}
